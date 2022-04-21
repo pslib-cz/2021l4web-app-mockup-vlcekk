@@ -9,3 +9,7 @@ Předvytovořené jsou svg soubory pozadí, kanónu, nepřátel a HUD. Vše se d
 
 
 ![](./ukazka.png)
+
+Animace kanonu při střelbě
+
+![](./svg_assets/kanon_animace/kanon_anim.gif)
